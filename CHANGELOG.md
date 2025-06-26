@@ -2,8 +2,6 @@
 
 ## 3.18.1
 
-### Patch Changes
-
 -   2709cce: Fix ENAMETOOLONG when calling Claude Code
 -   b7b0e96: host bridge migration - clipboard
 -   d4d5a49: Refactor task class, moving auto approve
