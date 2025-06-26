@@ -1,5 +1,13 @@
 # Changelog
 
+## 3.18.1
+
+### Patch Changes
+
+-   2709cce: Fix ENAMETOOLONG when calling Claude Code
+-   b7b0e96: host bridge migration - clipboard
+-   d4d5a49: Refactor task class, moving auto approve
+
 ## [3.18.0]
 
 -   Optimized Cline to work with the Claude 4 family of models, resulting in improved performance, reliability, and new capabilities
